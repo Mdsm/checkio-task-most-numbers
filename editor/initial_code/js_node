@@ -1,6 +1,6 @@
 "use strict";
 
-function mostNumbers(numbers){
+function mostNumbers(...numbers){
     return 2
 }
 
